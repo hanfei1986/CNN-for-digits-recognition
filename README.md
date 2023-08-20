@@ -5,8 +5,9 @@ How the data look like:
 
 ![image](https://github.com/hanfei1986/CNN-for-digits-recognition/assets/59255164/0dcf41a3-0aab-4e53-af34-22b544dbc45a)
 
-Confusion Matrix:
+Confusion Matrix for TensorFlow model:
 
-![image](https://github.com/hanfei1986/CNN-for-digits-recognition/assets/59255164/b581b38a-2fc2-4308-a022-83bd82b4fe8b)
+![image](https://github.com/hanfei1986/CNN-for-digits-recognition/assets/59255164/24a269eb-b022-40f0-9aec-e6ba0e9823a2)
+
 
 
