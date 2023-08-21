@@ -7,8 +7,6 @@ How the data look like:
 
 Confusion Matrix for TensorFlow model:
 
-![image](https://github.com/hanfei1986/CNN-for-digits-recognition/assets/59255164/24a269eb-b022-40f0-9aec-e6ba0e9823a2)
-
 ![image](https://github.com/hanfei1986/CNN-for-digits-recognition/assets/59255164/089e0b4c-1bbe-4d61-ba98-4e55026b60ad)
 
 
