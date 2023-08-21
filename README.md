@@ -9,6 +9,11 @@ Confusion Matrix for TensorFlow model:
 
 ![image](https://github.com/hanfei1986/CNN-for-digits-recognition/assets/59255164/089e0b4c-1bbe-4d61-ba98-4e55026b60ad)
 
+Confusion Matrix for PyTorch model:
+
+![image](https://github.com/hanfei1986/CNN-for-digits-recognition/assets/59255164/259da076-0bc4-4f96-86ba-a18a4b6982b4)
+
+
 
 
 
