@@ -1,5 +1,5 @@
 # CNN-for-digits-recognition
-This is a CNN tutorial for digits recognition trained on MNIST dataset. I built two models with TensorFlow/Keras and PyTorch/Skorch respectively.
+This is a CNN tutorial for beginners about a digits recognition model trained on MNIST dataset. I built two models with TensorFlow/Keras and PyTorch/Skorch respectively.
 
 How the data look like:
 
