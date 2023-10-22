@@ -7,11 +7,12 @@ How the data look like:
 
 Confusion Matrix for TensorFlow model:
 
-![image](https://github.com/hanfei1986/CNN-for-digits-recognition/assets/59255164/089e0b4c-1bbe-4d61-ba98-4e55026b60ad)
+![image](https://github.com/hanfei1986/CNN-for-digits-recognition/assets/59255164/ad01c51b-24ad-43ea-8ec1-346d59bfabf2)
 
 Confusion Matrix for PyTorch model:
 
-![image](https://github.com/hanfei1986/CNN-for-digits-recognition/assets/59255164/259da076-0bc4-4f96-86ba-a18a4b6982b4)
+![image](https://github.com/hanfei1986/CNN-for-digits-recognition/assets/59255164/e6ce58bc-95da-4b77-b3bb-aaa9ffba1b17)
+
 
 
 
